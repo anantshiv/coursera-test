@@ -21,11 +21,18 @@ h1{
     line-height: .75;
   }
   .navbar-header button.navbar-toggle{
-      border: 1.5px solid black;
-  }
+      border: 1px solid black;
+    }
+    #collapsable-nav
+    {
+        margin-top: 15px;
+        margin-bottom: -8px;
+
+    }
   .col-xs-12{
       background-color: rgb(173, 167, 167);
-      margin-bottom: 50px;
+      margin-top: 30px;
+    margin-bottom: 50px;
 
   }
   #nav-list
