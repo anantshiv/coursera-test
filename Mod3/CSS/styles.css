@@ -1,0 +1,39 @@
+body{
+    font-size: 16px;
+    font-family: 'Oxygen', sans-serif;
+    color: black;
+}
+#header-nav {
+    background-color: rgb(173, 167, 167);
+    border-radius: 0;
+    border: 0;
+}
+h1{
+    color: black;
+}
+.navbar-brand {
+    padding-top: 25px;
+  }
+  .navbar-brand h1 {
+    font-size: 1.75em;
+    margin-top: -15px;
+    margin-bottom: 0;
+    line-height: .75;
+  }
+  .navbar-header button.navbar-toggle{
+      border: 1.5px solid black;
+  }
+  .col-xs-12{
+      background-color: rgb(173, 167, 167);
+      margin-bottom: 50px;
+
+  }
+  #nav-list
+  {
+  font-size: 1.2em;
+  background-color:white;
+  margin-top: 10px;  
+  }
+  li.visible-xs{
+      border: 1px solid black;
+  }
